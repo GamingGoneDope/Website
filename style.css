@@ -18,7 +18,19 @@ body {
 
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-#timer #countdown {
+
+    border-radius: 25px;
+    background: rgb(16, 18, 22);
+}
+
+#timer #countdown {    
     text-align: center;
     font-size: 50px;
     line-height: 120px;
+}
+
+#timer #message {    
+    text-align: center;
+    font-size: 20px;
+    line-height: 0px;
+}
