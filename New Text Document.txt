@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maison d'edition Lectio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1>Maison d'édition Lection</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Page d'Accueil</a></li>
+        <li><a href="#about">Sur Nous</a></li>
+        <li><a href="#books">Nos Livres</a></li>
+        <li><a href="#contact">Contacts</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <h2>Bienvenue a Lectio</h2>
+      <p>Bienvenue sur notre platforme officiel de la Maison d'édition Lectio
+      qui vous propose l'un des meilleur livres Medecine, Pharmacy et Dentaire
+       au niveau d'Alger.</p>
+    </section>
+
+    <section id="about">
+      <h2>Sur Nous</h2>
+      <p>Notre maison d'édition a été créé en 2022 pour le but 
+       de vous fournir les meilleur livres créé par étudiant pour etudiant.</p>
+    </section>
+
+    <section id="books">
+      <h2>Nos livres</h2>
+      <div class="book">
+        <img src="333897344_950883532949834_6597588693355653618_n.jpg" alt="Book 1">
+        <h3>Biochimie Tome 1</h3>
+        <p>Prix: 600Da</p>
+      </div>
+      <div class="book">
+        <img src="333670942_723161812680234_8729417605958425612_n.jpg" alt="Book 2">
+        <h3>Qcm Pharmacie Galenique</h3>
+        <p>Prix : 450Da</p>
+      </div>
+      <!-- Add more books here -->
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Si vous avez des questions ou des demandes, n'hésitez 
+      pas à nous contacter sur notre : 
+      <p> Instagram:@Edition_Lectio </p>
+     <p> Facebook:@Edition_Lectio</p> 
+      <p>Numéro de Tel: 0561 48 93 59</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Maison d'Edition Lectio, Tous droit resérve.</p>
+  </footer>
+</body>
+
+</html>
